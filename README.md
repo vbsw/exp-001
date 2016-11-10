@@ -30,8 +30,13 @@ OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <http://unlicense.org>
 
 ## Compilation
+For package "exp-001a" run:
 
-	$ go install -tags 'alice' github.com/vbsw/exp-001
+	$ go get -tags 'alice' github.com/vbsw/exp-001
+
+For package "exp-001b" run:
+
+	$ go get -tags 'bob' github.com/vbsw/exp-001
 
 ## References
 - <http://dave.cheney.net/2013/10/12/how-to-use-conditional-compilation-with-the-go-build-tool>
