@@ -1,7 +1,9 @@
 # Experiment 001
 
-## Abstract
+## About
 Experiment 001 tests conditional compilation for the programming language Go.
+
+Experiment 001 is published on <https://github.com/vbsw/exp-001>.
 
 ## Copying
 This is free and unencumbered software released into the public domain.
