@@ -29,7 +29,9 @@
 package main
 
 import impl "github.com/vbsw/exp-001a"
+import "fmt"
 
 func main ( ) {
 	impl.PrintSpecificMessage()
+	fmt.Println("...")
 }
